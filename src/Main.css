@@ -1,5 +1,26 @@
-.card img {
-    width: 100%;
-    height: 250px;
+.card-img-top {
+    width:200px;
+    height: 200px;
     object-fit: cover;
+    margin:auto;
+}
+
+.imagen {
+    width:100%;
+    height: 600px;
+    object-fit: cover; 
+    margin:auto;
+}
+
+.BsHeart {
+    font-size: 30px;
+}
+
+.red {
+    color:red;
+    font-size: 30px;
+
+}
+.white {
+    background-color:whitesmoke;
 }
